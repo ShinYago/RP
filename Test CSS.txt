@@ -1,0 +1,44 @@
+.yago_text {
+	padding:20px;
+}
+
+
+
+.yago_foot {
+	height:210px;
+	background:url("https://www.zupimages.net/up/22/22/3nhm.png") no-repeat top right;
+}
+
+.yago_ban {
+	height:210px;
+	background:url("https://www.zupimages.net/up/22/22/3nhm.png") no-repeat top left;
+	font-size: 25px;
+	color: #f9ec8e;
+	font-family: "Bebas Neue", serif;
+	font-weight: bold;
+	padding-right: 50px;
+	display:flex;
+	justify-content:flex-end;
+	align-items:center;
+	line-height:30px;
+	text-align:right;
+}
+
+.yago_feat {
+	border-top:2px solid #f9ec8e;
+	color: #efefef;
+	font-size: 20px;
+	font-family: 'Bebas Neue', serif;
+}
+
+.yago_main {
+	margin: 0px auto;
+	background-color: #404046;
+        border-radius: 5px;
+	border-top: 9px solid #f9ec8e;
+	border-bottom: 9px solid #f9ec8e;
+	font-size: 15px;
+	text-align: justify;
+	height: auto;
+	color: #999999; 
+}
