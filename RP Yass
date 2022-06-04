@@ -1,4 +1,4 @@
-.valdyrarp_main {
+.Yago_main {
 	margin: 0px auto;
 	background-color: #282828;
 	font-family: "Century Gothic", sans-serif;
@@ -10,7 +10,7 @@
 	color: #999999; 
 }
 
-.valdyrarp_ban {
+.Yago_ban {
 	height:200px;
 	background:url("https://www.zupimages.net/up/22/22/3nhm.png") no-repeat top left;
 	font-size: 35px;
@@ -36,7 +36,7 @@
 	padding:20px;
 }
 
-.valdyrarp_foot {
+.Yago_foot {
 	height:150px;
-	background:url("https://zupimages.net/up/21/51/4vkj.png") no-repeat top right;
+	background:url("https://www.zupimages.net/up/22/22/3nhm.png") no-repeat top right;
 }
