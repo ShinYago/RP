@@ -1,0 +1,47 @@
+.Yago_main {
+	margin: 0px auto;
+	background-color: #282828;
+	font-family: "Century Gothic", sans-serif;
+	border-top: 9px solid steelblue;
+	border-bottom: 9px solid steelblue;
+	font-size: 15px;
+	text-align: justify;
+	height: auto;
+	color: #999999; 
+}
+
+.Yago_ban {
+	height:200px;
+	background:url("https://www.zupimages.net/up/22/22/3nhm.png") no-repeat top left;
+	font-size: 35px;
+	color: steelblue;
+	font-family: "Bebas Neue", serif;
+	font-weight: bold;
+	padding-right: 50px;
+	display:flex;
+	justify-content:flex-end;
+	align-items:center;
+	line-height:30px;
+	text-align:right;
+}
+
+.valdyrarp_feat {
+	border-top:2px solid steelblue;
+	color: #505252;
+	font-size: 20px;
+	font-family: 'Bebas Neue', serif;
+}
+
+.valdyrarp_text {
+	padding:20px;
+}
+
+.Yago_foot {
+	height:150px;
+	background:url("https://www.zupimages.net/up/22/22/3nhm.png") no-repeat top right;
+}
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
